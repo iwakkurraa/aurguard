@@ -1,6 +1,5 @@
 # aurguard (aurg)
 
-## Usage: 
 ### Scan a package with `aurg scan <package>`
 Example:
 aurg scan firefox
