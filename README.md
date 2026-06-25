@@ -9,6 +9,7 @@ Example:
 aurg inspect bash 
 > to inspect a dependency it must be listed in the dependencies of a package scanned with `aurg scan` or `aurg inspect`
 
+
 ## Features 
 - Scan packages before installation
 - Inspect package details, dependencies, and origins
@@ -19,12 +20,14 @@ aurg inspect bash
 - Recursive dependency inspection
 - PKGBUILD security checks (WIP)
 
+
 ## Installation 
 ### Requirements 
 Install dependencies:
 ```bash 
 sudo pacman -S rust curl
 ```
+
 
 ### Install from source
 Clone the repository: 
