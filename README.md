@@ -1,15 +1,11 @@
 # aurguard (aurg)
 
 ## Usage: 
-### Scan a package: 
-aurg scan <package> 
-
+### Scan a package with `aurg scan <package>`
 Example:
 aurg scan firefox
 
-### Inspect dependencies after scanning a package: 
-aurg inspect <dependency>
-
+### Inspect dependencies after scanning a package with `aurg inspect <dependency>`
 Example: 
 aurg inspect bash 
 
