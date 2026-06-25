@@ -9,7 +9,7 @@ aurg scan firefox
 Example: 
 aurg inspect bash 
 
-(to inspect a dependency it must first be listed in the dependencies of a package scanned)
+(to inspect a dependency it must be listed in the dependencies of a package scanned)
 
 
 
