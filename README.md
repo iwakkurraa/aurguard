@@ -26,3 +26,20 @@ Install dependencies:
 sudo pacman -S rust curl
 ```
 
+### Install from source
+Clone the repository: 
+```bash 
+git clone https://github.com/iwakkurraa/aurguard.git
+cd aurguard
+```
+
+Build and install:
+```bash 
+cargo install --path .
+```
+
+Verify installation:
+```bash 
+aurg --help
+```
+
