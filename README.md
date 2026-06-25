@@ -29,12 +29,6 @@ aurg inspect bash
 
 ## Installation 
 ### Requirements 
-
-aurguard requires: 
-- Arch Linux 
-- Rust
-- curl 
-
 Install dependencies:
 ```bash 
 sudo pacman -S rust curl
